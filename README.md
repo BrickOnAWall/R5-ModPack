@@ -1,6 +1,4 @@
 # R5-ModPack
 This is a mod pack made by me.
-The Mods Are:
--Unidentified Firing Weapon
--Self Propelled Launcher
-Thats All For Now I will be adding more soon!
+If you have mods that you have made and want added I will add them and credit you.
+If there are any issues let me know
